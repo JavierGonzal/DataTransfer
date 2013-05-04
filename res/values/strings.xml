@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">DataTransfer</string>
+    <string name="title_activity_activity_one">ActivityOne</string>
+    <string name="text_tv_activity_one">First Activity. Press button to call second activity</string>
+    <string name="title_button_activity_one">Calling an intent</string>
+    <string name="input_one">Input 1:</string>
+    <string name="input_two">Input 2:</string>
+    <string name="defaultt">Default</string>
+    <string name="finish">Finish</string>
+
+</resources>
